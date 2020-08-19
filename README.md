@@ -1,5 +1,7 @@
 # Notes:
-In an ideal situation, an xUnit project would have been created from the onset of the project with all tests created before any code additions or modifications were made in order to follow a true TDD approach
+- In an ideal situation, an xUnit project would have been created from the onset of the project with all tests created before any code additions or modifications were made in order to follow a true TDD approach
+
+- The bulk of the logic is in teaSharpChallenge/Utility/StudentUtility.cs. The methods are, for the most part, single responsibilty driven in order to be unit testable more effectively
 
 # Challenge Notes
 
